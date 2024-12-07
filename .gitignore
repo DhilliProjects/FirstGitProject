@@ -1,2 +1,3 @@
 *.txt
 fifth.js
+!First.txt
